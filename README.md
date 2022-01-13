@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on GTK Gui, Makie.jl ;)
 
 # More about me
-[![wakatime](https://wakatime.com/badge/user/e7ceeb62-05eb-4a90-a49f-b4ab46111a31/project/df8c780b-3b9b-4ddb-9fe5-641ef356aae1.svg)](https://wakatime.com/badge/user/e7ceeb62-05eb-4a90-a49f-b4ab46111a31/project/df8c780b-3b9b-4ddb-9fe5-641ef356aae1)
+[![time spent Developing this repo](https://wakatime.com/badge/user/e7ceeb62-05eb-4a90-a49f-b4ab46111a31/project/df8c780b-3b9b-4ddb-9fe5-641ef356aae1.svg)](https://wakatime.com/badge/user/e7ceeb62-05eb-4a90-a49f-b4ab46111a31/project/df8c780b-3b9b-4ddb-9fe5-641ef356aae1)
 
 A masters graduate, since a while. going back to the coding dojo called github
 trying to learn a trick or too along the way.
@@ -24,22 +24,8 @@ Note: If you are deploying this project yourself, the private contributions will
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazfaris&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=gazfaris&count_private=true&show_icons=true)
 
-# Header
-[Defines a ](#defines) #<- hashtag leads to the header
 
-[Custom/Names]
-(#custom-name)
 
-use  dash instead of space
-
-### defines
-These are defines
-
-### <a name="custom-names"></a> Custom/Names
-that's an html name Field
-there are custom names
-
-[]("Assets/images/buy_me_a_coffee.png")
 # your vote counts
 
 I am ready to hear you out. feel free to ask me anything, about anything you'd like
