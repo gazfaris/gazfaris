@@ -24,37 +24,50 @@ Note: If you are deploying this project yourself, the private contributions will
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazfaris&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=gazfaris&count_private=true&show_icons=true)
 
+#what I'm doing
 
+so this is my strategy right now:
+
+- thinking in small steps,
+-  breaking down a great projects along the wa
+- getting inspired to write more code
+-  reuse code that I found a value, (making it more valuable as well)
+
+when learning sth
+follow my rule:
+sleep
+look at problem again
+repeat .. n times at least
+
+Honestly, I'm still learning how to hone my coding skills, so that I'd be able to
+provide a better version of "Quality code" when applicable
+whatever project you'd be requesting in the future.
 
 # your vote counts
 
 I am ready to hear you out. feel free to ask me anything, about anything you'd like
 (whether if they are programs you've always wanted to make - but have not enough time for, or  you could
- just tell me your favorite thing, or a hobby you love to do!
+please tell me your favorite thing, or a hobby you love to do!
 
+surviving the day; returns would be visible only on the mid- to long term. (a few months, give or take )
 
 # 💖 Support the project
 I open-source almost everything I can,
- Obviously,
- writing quality code requires time, efforst & to show abit of more Love
+
+
+Writing quality code requires time, efforts & to show abit of more Love
 of course, You can do whatever you like with this free repo: this service for free
 page made by a human to humanity. I love open-source projects, especially ones I love ,
-I guess I gotta spend more time doing code reviews, helping others as well (being availiabe for others , just like you're available now
+
+I guess I gotta spend more time doing code reviews, plus helping others as well ( gotta learn from you, just like you're available now
 for me).
 
-However, if you are using this project and are happy with it or just want
+However, if you found using my  projects useful, or have profited from using them, and are happy with it or just want
 
-your contribution would encourage me do better job, next time, surviving the day; returns would be visible only on the mid- to long term. (a few months, ,give or take )
+your contribution would encourage me do better job, next time, on for the next task.
 
-Honestly, I'm still learning how to hone my coding skills, so that I'd be able to
-provide a better version of "Quality code" when applicable
- whatever project you'd be requesting in the future.
-
-On the Other hand, to continue adding more material, coding various kinds  Stuff, there are
-many steps you can do, one way is to help me get more coffee - I love the Buzz ways you can help
+many steps you can do, one way is to help me get more coffee - I love the Buzz ways you can help:
 
 [![Would you buy me a Coffee?](Assets/images/buy_me_a_coffee.png)](https://buymeacoffee.com/gfaris)
-
-[![Would you buy me a Coffee?](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP25hbWU9R2hhemFsK0ZhcmlzJnNpemU9MzAwJmJnLWltYWdlPWJtYyZiYWNrZ3JvdW5kPTVGN0ZGRg==&creator=Ghazal+Faris&is_creating=Developing%20Julia%20code%20&design_code=1&design_color=%235F7FFF&slug=gfaris)](https://buymeacoffee.com/gfaris)
 
 Thanks forwards ! ❤️
