@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfaris)](https://github.com/gfaris/github-readme-stats)
 
-[![buy me  a cofeee](https://www.buymeacoffee.com/gfaris)
+[![buy me  a cofeee](https://www.buymeacoffee.com/gfaris)](https://www.buymeacoffee.com/gfaris)
