@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on GTK Gui, Makie.jl ;)
 
 
-[![Ghazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfaris)](https://github.com/gfariz/github-readme-stats)
+[![Ghazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gazfaris)](https://github.com/gfariz/github-readme-stats)
